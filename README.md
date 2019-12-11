@@ -1,3 +1,8 @@
+## Heroku Notes
+
+- url:: https://glacial-peak-19125.herokuapp.com/
+- react-scripts:: had to be downgraded from 3.3 to 3.2 because heroku throws up on 3.3
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
